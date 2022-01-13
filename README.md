@@ -10,9 +10,6 @@
 [![Socket-io](/client/public/img/techstack/socketio.png)](https://socket.io/)
 
 
-
-
-
 # MERN-boilerplate
 
 This is a boilerplate project using the following technologies:
@@ -27,8 +24,6 @@ This is a boilerplate project using the following technologies:
 
 - [PWA](https://developers.google.com/web/progressive-web-apps/)  PWA Implemenation
 - [FCM](https://firebase.google.com/docs/cloud-messaging/) FCM (FireBase Cloud Message) FireBase Push Notification to Devices
-
-
 
 
 ## Requirements
@@ -56,26 +51,6 @@ Development (Webpack dev server) mode:
 npm run start:dev
 ```
 
+## Author
 
-## Demo Link
-
-- [Click here](https://share-and-connect.herokuapp.com/)
-
-
-Screenshot
-
-Landing page without login 
-![capture](https://user-images.githubusercontent.com/1465967/38768241-fd93251c-400d-11e8-9b7d-d4e0558e9024.PNG)
-
-User Dashboard
-![capture](https://user-images.githubusercontent.com/1465967/38768216-913d7944-400d-11e8-9a3e-12807b8ef86e.PNG)
-
- ## Credits
-
-Created by [@anuraggautam77](https://www.linkedin.com/in/anuraggautam77/)
-
- ## Cheer me
-Cheer me up with a coffee! [![React Router](https://www.buymeacoffee.com/assets/img/bmc-f-logo.svg)](https://www.buymeacoffee.com/fL0O9wW)
-
- 
-
+Comet Web Developer
